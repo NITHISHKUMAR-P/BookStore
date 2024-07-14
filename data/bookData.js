@@ -28,8 +28,8 @@ const bookData = [
 
 const userData = [
     {
-        "uname" : "nithish",
-        "upwd" : "nithu123"
+        "uname" : "jovita",
+        "upwd" : "jovi123"
     },
     {
         "uname" : "dummy",
